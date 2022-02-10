@@ -1,0 +1,26 @@
+{
+    "id": "88C755A8",
+    "path": "~/Coding Projects/Tellus NI/For paper - NI raw XRF data CoDa fastICA analysis 8CHAN def exp - prior to interpolation.R",
+    "project_path": "For paper - NI raw XRF data CoDa fastICA analysis 8CHAN def exp - prior to interpolation.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1639661140300.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "183,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639660964,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639681250078,
+    "read_only": false,
+    "read_only_alternatives": []
+}
